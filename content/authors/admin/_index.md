@@ -25,7 +25,7 @@ role:
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Shijiazhuang Tiedao University
-    url: https://openai.com/
+    url: https://www.stdu.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -183,4 +183,7 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+本科阶段作为班干部积极组织各种活动、协调人际关系。硕士阶段积极协助导师
+建设实验室，研究方向为结构健康监测、工程信息化、基础设施数字孪生，在硕士阶
+段获得国家奖学金一次、校级二等奖学金一次。本人性格沉稳，应变能力强，分析问
+题透彻，演讲汇报能力尚可。相信能胜任博士阶段的工作！
