@@ -53,7 +53,7 @@ interests:
 
 education:
   - area: PhD Artificial Intelligence
-    institution: Stanford University
+    Shijiazhuang Tiedao University University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -62,9 +62,9 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    FuJian GongCheng University
+    date_start: 2017-09-01
+    date_end: 2021-07-01
     summary: |
       GPA: 3.8/4.0
 
