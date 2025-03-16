@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Digital Twin
+  - Smart Construction Management
+  - BIM
 
 education:
   - area: PhD Artificial Intelligence
