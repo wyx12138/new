@@ -61,7 +61,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng TrafficEngineering
+  - area: MEng Traffic Engineering
     institution: Shijiazhuang Tiedao University
     date_start: 2017-09-01
     date_end: 2021-07-01
