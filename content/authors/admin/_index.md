@@ -53,7 +53,7 @@ interests:
 
 education:
   - area: Summer Camp   Remote Sensing Technology
-    Wuhan University
+    institution: Wuhan University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -62,7 +62,7 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: MEng Traffic and Transportation Engineering
-    Shijiazhuang Tiedao University
+    institution: Shijiazhuang Tiedao University
     date_start: 2017-09-01
     date_end: 2021-07-01
     summary: |
@@ -73,7 +73,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Traffic Engineering
-    Fujian University of Technology
+    institution: Fujian University of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
