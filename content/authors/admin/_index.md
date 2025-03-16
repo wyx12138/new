@@ -52,7 +52,7 @@ interests:
   - BIM
 
 education:
-  - area: Summer Camp   Remote Sensing Technology
+  - area: Summer Camp Remote Sensing Technology
     institution: Wuhan University
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -61,7 +61,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Traffic and Transportation Engineering
+  - area: MEng TrafficEngineering
     institution: Shijiazhuang Tiedao University
     date_start: 2017-09-01
     date_end: 2021-07-01
