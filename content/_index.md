@@ -56,10 +56,10 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: 
       filters:
         folders:
-          - publication
+          - publication2
         featured_only: true
     design:
       view: article-grid
@@ -90,7 +90,7 @@ sections:
       title: Recent & Upcoming Talks2
       filters:
         folders:
-          - event
+          - event2
     design:
       view: article-grid
       columns: 1
