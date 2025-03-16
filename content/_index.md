@@ -53,7 +53,7 @@ sections:
     design:
       view: article-grid
     #   columns: 2
-- block: collection
+  - block: collection
     id: papers
     content:
       title: Featured Publications
