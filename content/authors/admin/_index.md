@@ -52,8 +52,8 @@ interests:
   - BIM
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Shijiazhuang Tiedao University University
+  - area: Summer Camp   Remote Sensing Technology
+    Wuhan University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -61,8 +61,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: FuJian GongCheng University
+  - area: MEng Traffic and Transportation Engineering
+    Shijiazhuang Tiedao University
     date_start: 2017-09-01
     date_end: 2021-07-01
     summary: |
@@ -72,8 +72,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BSc Traffic Engineering
+    Fujian University of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
