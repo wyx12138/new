@@ -74,6 +74,17 @@ sections:
       view: article-grid
       columns: 1
   - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks2
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 2
+        
+  - block: collection
     id: news
     content:
       title: Recent News
