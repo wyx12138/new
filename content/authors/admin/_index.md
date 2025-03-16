@@ -10,8 +10,8 @@ first_name: Wei Shi Jun
 last_name: Wei
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+  # icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
