@@ -127,7 +127,7 @@ sections:
   - block: collection
     id: project
     content:
-      title: project
+      title: Selected Projects
       filters:
         folders:
           - project
