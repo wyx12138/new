@@ -79,6 +79,27 @@ paginate: true
 
 ---
 
+python
+print("Hello, Slides!")
+
+---
+
+<div class="columns"> <div>
+左栏内容
+
+列 1
+
+列 1
+
+</div> <div>
+右栏内容
+
+列 2
+
+列 2
+
+</div> </div> 
+---
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
