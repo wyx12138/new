@@ -17,6 +17,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
+![screen reader text](stacked-peaks.svg "caption")
 # {{< figure src="/content/preprint/featured.jpg" thumbnail="/images/thumbs/large-image.jpg" >}}
 image: {{< figure src="/content/preprint/featured.jpg" title="图片标题" lightbox="true" >}}
 
