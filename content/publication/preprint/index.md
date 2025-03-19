@@ -17,6 +17,8 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
+![图片描述](/content/preprint/featured.jpg){: loading="lazy" }
+
 abstract: This thesis proposes an intelligent monitoring and early warning system for tunnel construction based on digital twin technology, aiming to address the limitations of traditional monitoring methods. The research develops a digital twin framework, utilizing BIM technology for rapid modeling and dynamic simulation of tunnel structures, geological environments, and construction progress. It introduces an online simulation method for predicting safety states, coupled with visual early warnings for real-time monitoring. The system, tailored for high-speed rail loess tunnels, integrates monitoring data, numerical simulations, and digital twin models, significantly enhancing safety management and improving the efficiency and accuracy of tunnel construction.
 
 # Summary. An optional shortened abstract.
